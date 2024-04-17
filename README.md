@@ -36,25 +36,25 @@ This project focuses on analyzing ecommerce user data using MySQL. The dataset c
     
 10.	Display the top 10 countries with the maximum product pass rate.
     
-20.	Calculate the number of users on the ecommerce platform for different language choices.
+11.	Calculate the number of users on the ecommerce platform for different language choices.
     
-22.	Analyze the choice of female users regarding wishlist or social likes.
+12.	Analyze the choice of female users regarding wishlist or social likes.
     
-24.	Analyze the choice of male users regarding being a seller or buyer.
+13.	Analyze the choice of male users regarding being a seller or buyer.
     
-26.	Determine the country with the maximum number of buyers.
+14.	Determine the country with the maximum number of buyers.
     
-28.	List the top 10 countries with zero sellers.
+15.	List the top 10 countries with zero sellers.
     
-30.	Display the records of the top 110 users who have recently used the ecommerce platform.
+16.	Display the records of the top 110 users who have recently used the ecommerce platform.
     
-32.	Calculate the number of female users who have not logged in for the last 100 days.
+17.	Calculate the number of female users who have not logged in for the last 100 days.
     
-34.	Display the number of female users for each country on the ecommerce platform.
+18.	Display the number of female users for each country on the ecommerce platform.
     
-36.	Display the number of male users for each country on the ecommerce platform.
+19.	Display the number of male users for each country on the ecommerce platform.
     
-38.	Calculate the average number of products sold and bought by male users for each country.
+20.	Calculate the average number of products sold and bought by male users for each country.
     
 # How to Run the Project on MySQL Workbench
 
@@ -74,3 +74,7 @@ CREATE SCHEMA ecommerce;
 
 This project demonstrates the power of SQL in analyzing ecommerce user data to extract valuable insights for business decision-making. By performing various queries on the dataset, we can uncover patterns, trends, and performance metrics that can inform strategic initiatives and optimize the ecommerce platform's operations.
 
+-----------------------------------------------------------------
+Feel free to add any additional instructions or details as needed.
+contact on mdmishkatahsan02@gmail.com
+or linkedin https://www.linkedin.com/in/mishkat-ahsan-7b0509224/
