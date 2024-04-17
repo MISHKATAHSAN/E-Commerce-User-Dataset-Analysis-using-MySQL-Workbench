@@ -10,8 +10,11 @@ This project focuses on analyzing ecommerce user data using MySQL. The dataset c
 **Dataset**
 
 •	File: users_data.csv
+
 •	Rows: 98913
+
 •	Columns: 24
+
 
 
 **Tasks**
@@ -76,5 +79,7 @@ This project demonstrates the power of SQL in analyzing ecommerce user data to e
 
 -----------------------------------------------------------------
 Feel free to add any additional instructions or details as needed.
+
 contact on mdmishkatahsan02@gmail.com
-or linkedin https://www.linkedin.com/in/mishkat-ahsan-7b0509224/
+
+linkedin https://www.linkedin.com/in/mishkat-ahsan-7b0509224/
